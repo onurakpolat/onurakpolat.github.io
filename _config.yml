@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Onur Akpolat
 tagline:          thinking loud.
-url:              http://onurakpolat.github.io
+url:              http://blog.onurakpolat.com
 paginate:         1
 baseurl:          /
 author:
