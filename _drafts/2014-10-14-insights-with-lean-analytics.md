@@ -5,18 +5,15 @@ comments: true
 permalink: "insights-with-lean-analytics"
 ---
 
-Draft
-
-## Subtitle
+## Title
 
 ```
 code
-    code
 ```
 
-As expected, the `ingredient_names` contains:
+A table
 
-| recipe_id |
+| table |
 | --------- |
 |      XXXX |
 
