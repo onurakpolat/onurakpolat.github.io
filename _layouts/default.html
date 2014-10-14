@@ -2,7 +2,7 @@
 <html lang="en">
 
   {% include head.html %}
-
+  {% include analytics.html %}
   <body>
 
     <div class="container content">
@@ -19,14 +19,15 @@
 
       <main>
         {{ content }}
+        {% include comments.html %}
       </main>
-      {% include comments.html %}
+      
       <footer class="footer">
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
         </small>
       </footer>
     </div>
-  {% include analytics.html %}
+  
   </body>
 </html>
