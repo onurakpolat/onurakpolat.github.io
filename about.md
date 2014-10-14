@@ -13,5 +13,5 @@ engineering & data, design & ux as well as the business world.
 
 Before working at Onefootball, i was in the core team of a startup (which failed),
 worked at [Delivery Hero](http://deliveryhero.com/) and worked in different consultancies
-as a student. I studied computer science & business in Berlin & Brisbane.
+as a student. I studied computer science & business in Berlin and Brisbane.
 
