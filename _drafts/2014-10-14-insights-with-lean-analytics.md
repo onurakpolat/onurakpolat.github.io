@@ -24,7 +24,7 @@ is the single first question you should ask. Often there are different people re
 
 ##### Define and validate hypothesis
 
-Another goal shoul be the validation of hypothesis. This only works if you define hypothesis in the first place. A simple product hypothesis could be something like:
+Once the real problems are identified it's important to transform vague questions into measurable hypothesis that can be validated. This only works if you define hypothesis in the first place. A simple product hypothesis could be something like:
 
 > If we change the call to action for our signup from "Signup" to "Get fucking started" we increase the signup rate (conversion) from 3% to 5%.
 
@@ -32,7 +32,7 @@ The rest is specifying the success metric further, designing the experiment (A/B
 
 ##### Ingest data in the companies DNA
 
-Data informed thinking has to start with the CEO and be lived down to every single engineer otherwise you'll have a hard time fighting to help others. I didn't give this a signle thought when i started and it turned out to be 50% of my job - educating others to think with data.
+Data informed thinking has to start with the CEO and be lived down to every single engineer otherwise you'll have a hard time fighting to help others. I didn't give this a single thought when i started but it turned out that 50% of my job is educating others to think with data and eventually using tools to validate or falsify their initial hypothesis.
 
 ## Building a team, structures and culture
 
@@ -40,23 +40,8 @@ Data informed thinking has to start with the CEO and be lived down to every sing
 
 ## Defining a lean process
 
-test
-
 ## Choosing the right metrics
 
 ## Making predictions
-
-
-
-
-```
-code
-```
-
-A table
-
-| table |
-| --------- |
-|      XXXX |
 
 {% include twitter_plug.html %}
