@@ -12,13 +12,11 @@ In this post i'll share my expierences in the last two years of how to do the tr
 
 While reading i'd appreciated your feedback and feel free to challenge every single word i'm writing (but be nice :D).
 
----
-
 ## Setting the goals
 
 It should be clear that everything you should have an explicit goal before you start. Write it down, communicate and approve it, then start the planning. To me the most important goals when working with data are:
 
-###### Identify the "real" problems
+### Identify the "real" problems
 > What problem are you trying to solve?
 
 Should be the single first question you should ask. Often there are different people requesting some analysis without knowing which problem they are actualy trying to solve. If there is one thing to remember from this post - it should be this.
