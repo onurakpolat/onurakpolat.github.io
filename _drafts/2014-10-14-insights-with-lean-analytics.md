@@ -24,7 +24,7 @@ Should be the single first question you should ask. Often there are different pe
 
 ##### Define and validate hypothesis
 
-Another goal shoul be the validation of hypothesis. This only works if you define hypothesis in the first place. I'll explain that part more detailed in the [Defining a lean process](##defining-a-lean-process) section.
+Another goal shoul be the validation of hypothesis. This only works if you define hypothesis in the first place. I'll explain that part more detailed in the [defining a lean process](#defining-a-lean-process) section.
 
 ##### Ingest data in the companies DNA
 
@@ -33,6 +33,8 @@ Another goal shoul be the validation of hypothesis. This only works if you defin
 ## Building a technical infrastructure
 
 ## Defining a lean process
+
+test
 
 ## Choosing the right metrics
 
