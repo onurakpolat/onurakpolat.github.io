@@ -11,7 +11,9 @@ When i started to work with large amounts of data, naturally the first thing i d
 In this post i'll share my expierences in the last two years of how to do the transition from a data analyst to a data scientist and to generate insights that actually matter. The areas i'll touch are settings the goals, building a team, structures and culture, building a technical infrastructure, defining a lean process, Choosing the right metrics and making predictions. It's a lot to cover and i'll keep it as short as possible.
 
 While reading i'd appreciated your feedback and feel free to challenge every single word i'm writing (but be nice :D).
+
 ---
+
 ## Setting the goals
 
 It should be clear that everything you should have an explicit goal before you start. Write it down, communicate and approve it, then start the planning. To me the most important goals when working with data are:
