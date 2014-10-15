@@ -32,7 +32,7 @@ The rest is specifying the success metric further, designing the experiment (A/B
 
 ##### Ingest data in the companies DNA
 
-Data informed thinking has to start with the CEO and be lived down to every single engineer otherwise you'll have a hard time fighting to help others. I didn't give this a single thought when i started but it turned out that 50% of my job is educating others to think with data and eventually using tools to validate or falsify their initial hypothesis.
+Data informed thinking has to start with the CEO and be lived down to every single engineer otherwise you'll have a hard time fighting to help others. I didn't give this a single thought when i started but it turned out that half of my efforts ended up beeing educating others to think with data and eventually using tools to validate or falsify their initial hypothesis.
 
 ## Building a team, structures and culture
 
@@ -43,5 +43,9 @@ Data informed thinking has to start with the CEO and be lived down to every sing
 ## Choosing the right metrics
 
 ## Making predictions
+
+## Where to go from here?
+
+
 
 {% include twitter_plug.html %}
