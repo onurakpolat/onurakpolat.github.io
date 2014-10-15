@@ -14,7 +14,7 @@ While reading i'd appreciated your feedback and feel free to challenge every sin
 
 ## Setting the goals
 
-Everything you do should have an explicit goal before you start. Write it down, communicate and approve it, then start the planning. To me the most important goals when working with data are:
+Everything you do should have an explicit goal before you start. Write it down, communicate and approve it, then start the planning. To me the three most important goals for an Insights team are:
 
 ##### Identify the "real" problems
 
@@ -24,9 +24,15 @@ Should be the single first question you should ask. Often there are different pe
 
 ##### Define and validate hypothesis
 
-Another goal shoul be the validation of hypothesis. This only works if you define hypothesis in the first place. I'll explain that part more detailed in the [defining a lean process](#defining-a-lean-process) section.
+Another goal shoul be the validation of hypothesis. This only works if you define hypothesis in the first place. I'll explain that part more detailed in the [defining a lean process](#defining-a-lean-process) section. A simple product hypothesis could be something like:
+
+> If we change the call to action for our signup from 'Signup' to 'Get fucking started' we increase the signup conversion
+
+The rest is specifying the success metric further, designing the experiment (A/B test) and tracking the hell out of it.
 
 ##### Ingest data in the companies DNA
+
+
 
 ## Building a team, structures and cuture
 
