@@ -8,7 +8,7 @@ permalink: "insights-with-lean-analytics"
 I remember stopped working in consulting because all i created was concepts and slides. The truth is, i was a powerpoint bitch.
 When i started to work with large amounts of data, naturally the first thing i did was a lot of descriptive data analysis and visualization. I was hired as an analyst in a startup and became a reporting bitch soon. Was that the hands-on work i expected from working in a young startup? It just didn't feel right, so i decided to make a change.
 
-In this post i'll share my expierences of the last two years on building an insights team in a startup and how we did the transition from data analysts to data scientists to generate actionable insights that matter. The areas i'll touch are [setting the goals](#setting-the-goals), [building a team, structures and culture](#building-a-team-and-structures), [building a technical infrastructure](#building-a-technical-infrastructure), [defining a lean process](#defining-a-lean-process), [choosing the right metrics](#choosing-the-right-metrics) and [making predictions](#making-predictions).
+In this post i'll share my expierences of the last two years on building an insights team in a startup and how we did the transition from data analysts to data scientists to generate actionable insights that matter. The areas i'll touch are [setting the goals](#setting-the-goals), [building a team and structures](#building-a-team-and-structures), [building a technical infrastructure](#building-a-technical-infrastructure), [defining a lean process](#defining-a-lean-process), [choosing the right metrics](#choosing-the-right-metrics) and [making predictions](#making-predictions).
 
 While reading i'd appreciated your feedback and feel free to challenge every single word i'm writing.
 
@@ -74,7 +74,7 @@ In general there are two ways of building a tracking infrastructure
 1. You build your own trackers, collectors, processing, storage and visualization (make)
 2. You implement a third-party solution that does all that for you (buy)
 
-I love engineering and sometimes tend to always build everything in-house. Why not setup a [kafka](https://github.com/apache/kafka) messaging system, use [hadoop](https://github.com/apache/hadoop) for processing and then store it on HDFS or something similar. A perfectly distributed systems using open-source technologies.
+I love engineering and sometimes tend to always build everything in-house aka facebooks "hack everything" culture. Why not setup a [kafka](https://github.com/apache/kafka) message bus or [hadoop](https://github.com/apache/hadoop) and then store it on HDFS or something similar. A perfectly distributed large-scale system using open-source technologies. There are other technologies like Googles Bigquery or Amazons Redshift which can be used for fast quering large amount of data.
 
 Well, thats not even half of the story. One challange of such a system is building suitable trakers send the events or logs. Especially in mobile there is caching, dispatching and it shouldn't affect the performance. The biggest challenge however, is the visualization piece. It takes at least a full month an a data scientist to build all the queries and charts needed on answer certain questions and i'm not talking about the basic reporting piece of MAUs and DAUs. To cap it all every single piece in this pipeline can brake and needs to be maintained. That concludes to an initial two months project with one full-time data engineer and one data scientist dedicated to building basic reports for the team, without probably answering a single relevant question.
 
@@ -85,6 +85,8 @@ I created two curated lists on github, one for [bigdata technologies](https://gi
 ![Awesome bigdata](/assets/posts/2014-10-14-insights-with-lean-analytics/awesome-bigdata.png)
 
 ## Defining a lean process
+
+
 
 ## Choosing the right metrics
 
