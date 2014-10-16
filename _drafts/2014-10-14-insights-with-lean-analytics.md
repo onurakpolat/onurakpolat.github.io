@@ -8,7 +8,7 @@ permalink: "insights-with-lean-analytics"
 I remember stopped working in consulting because all i created was concepts and slides. The truth is, i was a powerpoint bitch.
 When i started to work with large amounts of data, naturally the first thing i did was a lot of descriptive data analysis and visualization. I was hired as an analyst in a startup and became a reporting bitch soon. Was that the hands-on work i expected from working in a young startup? It just didn't feel right, so i decided to make a change.
 
-In this post i'll share my expierences of the last two years on building an insights team in a startup and how we did the transition from data analysts to data scientists to generate actionable insights that matter. The areas i'll touch are [setting the goals](#setting-the-goals), [building a team, structures and culture](#building-a-team-structures-and-culture), [building a technical infrastructure](#building-a-technical-infrastructure), [defining a lean process](#defining-a-lean-process), [choosing the right metrics](#choosing-the-right-metrics) and [making predictions](#making-predictions).
+In this post i'll share my expierences of the last two years on building an insights team in a startup and how we did the transition from data analysts to data scientists to generate actionable insights that matter. The areas i'll touch are [setting the goals](#setting-the-goals), [building a team, structures and culture](#building-a-team-and-structures), [building a technical infrastructure](#building-a-technical-infrastructure), [defining a lean process](#defining-a-lean-process), [choosing the right metrics](#choosing-the-right-metrics) and [making predictions](#making-predictions).
 
 While reading i'd appreciated your feedback and feel free to challenge every single word i'm writing.
 
@@ -34,7 +34,7 @@ The rest is specifying the success metric further, designing the experiment (A/B
 
 Data informed thinking has to start with the CEO and go all the way through to every single engineer, otherwise you'll have a hard time fighting to help others. I didn't give this a single thought when i started but it turned out that half of my efforts ended up beeing educating others to think with data and eventually using tools to validate or falsify their initial hypothesis.
 
-## Building a team, structures and culture
+## Building a team and structures
 
 As the first hire for data analysis i was lucky enough to have full control on how to scope and design the insights team and structure. Depanding on what the expectations of your role are you should define the responsibilies and tasks. This is what we came up with:
 
@@ -61,7 +61,24 @@ Hypothesis
 Validation
 > The signup rate dropped from 3% to 2% and the users felt offended and complained about the call to action text so we stopped the experiment and come up with something else.
 
+So telling a story when communicating the results is an essential skill required for a data scientist.
+
+##### Crunching numbers
+
+I'm not a math genius neither was i the best in class in statistics. However one thing you eventually have to do after getting, cleaning and transforming the data is to do calculation or run simple statisticall models like a regression to do predictions. Don't worry you don't need a PhD for that, there are a lot of ressources where this knowledge can be learned or refreshed. I can recommend the [data science specializaton](https://www.coursera.org/specialization/jhudatascience/1) and [machine learning course](https://www.coursera.org/course/ml) both on Coursera. If you search [machine learning](https://www.youtube.com/results?search_query=machine+learning) on youtube , thats another good way to start. In any case i'd recommend everyone to either learn or hire this skillset into the insights team.
+
 ## Building a technical infrastructure
+
+In general there are two ways of building a tracking infrastructure
+
+1. You build your own trackers, collectors, processing, storage and visualization (make)
+2. You implement a third-party solution that does all that for you (buy)
+
+I love engineering and sometimes tend to always build everything in-house. Why not setup a [kafka](https://github.com/apache/kafka) messaging system, use [hadoop](https://github.com/apache/hadoop) for processing and then store it on HDFS or simething similar. A perfectly distributed systems using open-source technologies. Well, thats not even half of the story. One challange of such a system is building suitable trakers send the events or logs. Especially in mobile there is caching, dispatching and it shouldn't affect the performance. The biggest challenge however, is the visualization piece. It takes at least a full month an a data scientist to build all the queries and charts needed on answer certain questions and i'm not talking about the basic reporting piece of MAUs and DAUs. To cap it all every single piece in this pipeline can brake and needs to be maintained. That concludes to an initial two months project with one full-time data engineer and one data scientist dedicated to building basic reports for the team, without probably answering a single relevant question.
+
+The simpler way, especially for small startups is the third-party solution. At the end it probably costs less, works better and scales with the company growth. I'm not saying don't build your own pipeline, if you can you should go for it. In reallity however, most companies can't but they can still generate insights. At the end its a business model and costs consideration. If you're business model is based on the data and you're using it for a bunch of different stuff you probably build you own pipeline anyway. If not you can do the calculation on a spreadsheet and decide.
+
+I created two curated lists on github, one for [bigdata technologies](https://github.com/onurakpolat/awesome-bigdata) and building your own infrastructure and another one for third-party [analytics tools](https://github.com/onurakpolat/awesome-analytics).
 
 ## Defining a lean process
 
