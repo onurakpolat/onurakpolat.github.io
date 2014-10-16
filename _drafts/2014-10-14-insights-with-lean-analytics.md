@@ -40,6 +40,10 @@ As the first hire for data analysis i was lucky enough to have full control on h
 
 ![Insights Strategy](/assets/posts/2014-10-14-insights-with-lean-analytics/insights-strategy.png)
 
+To get the most out of our data, we decided that it's key to cover many different areas and connect them. Contentwise, it turned out that focus was to work on the product as much as possible. We used attribution data from marketing and sent it with our user data. We didn't work much on the financial perspective as we made a strategic decision to cut off advertising from our app and focus on growth.
+
+The technical perspective is a bit more special..
+
 ## Building a technical infrastructure
 
 ## Defining a lean process
