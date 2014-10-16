@@ -38,7 +38,7 @@ Data informed thinking has to start with the CEO and go all the way through to e
 
 As the first hire for data analysis i was lucky enough to have full control on how to scope and design the insights team and structure. Depanding on what the expectations of your role are you should define the responsibilies and tasks. This is what we came up with:
 
-![Insights Strategy](/assets/2014-10-14-insights-with-lean-analytics/insights-strategy.png)
+![Insights Strategy](/assets/posts/2014-10-14-insights-with-lean-analytics/insights-strategy.png)
 
 ## Building a technical infrastructure
 
