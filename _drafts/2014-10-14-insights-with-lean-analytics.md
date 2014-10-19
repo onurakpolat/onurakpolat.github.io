@@ -5,6 +5,13 @@ comments: true
 permalink: "insights-with-lean-analytics"
 ---
 
+PLACEHOLDER TITLE IDEAS:
+GET STARTED WITH LEAN INSIGHTS
+LEAN INSIGHTS OVERVIEW
+THE ULTIMATE APPROACH TO LEAN INSIGHTS
+
+PLACEHOLDER IMPLEMENT FAILS!
+
 In this post i'll share my expierences of the last two years on building an insights team in a startup and how we did the transition from data analysts to data scientists to generate actionable insights that matter. The areas i'll touch are [setting the goals](#setting-the-goals), [building a team and structures](#building-a-team-and-structures), [building a technical infrastructure](#building-a-technical-infrastructure), [defining a lean process](#defining-a-lean-process), [choosing the right metrics](#choosing-the-right-metrics) and [making predictions](#making-predictions).
 
 While reading i'd appreciated your feedback and feel free to challenge every single word i'm writing.
