@@ -64,7 +64,12 @@ So telling a story when communicating the results is an essential skill required
 
 I'm not a math genius neither was i the best in class in statistics. However one thing you eventually have to do after getting, cleaning and transforming the data is to do calculation or run simple statisticall models like a regression to do predictions. Don't worry you don't need a PhD for that, there are a lot of ressources where this knowledge can be learned or refreshed. I can recommend the [data science specializaton](https://www.coursera.org/specialization/jhudatascience/1) and [machine learning course](https://www.coursera.org/course/ml) both on Coursera. If you search [machine learning](https://www.youtube.com/results?search_query=machine+learning) on youtube , thats another good way to start. In any case i'd recommend everyone to either learn or hire this skillset into the insights team.
 
+PLACEHOLDER VENN DIAGRAM WITH ALL 4 SKILLS
+
 ## Building a technical infrastructure
+
+PLACEHOLDER RENAME BUILD TRACKING
+PLACEHOLDER DEFINE SAMPLE EVENTS
 
 In general there are two ways of building a tracking infrastructure
 
