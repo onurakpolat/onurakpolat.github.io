@@ -84,6 +84,8 @@ The simpler way, especially for small startups is the third-party solution. At t
 
 I created two curated lists on github, one for [bigdata technologies](https://github.com/onurakpolat/awesome-bigdata) and building your own infrastructure and another one for third-party [analytics tools](https://github.com/onurakpolat/awesome-analytics).
 
+PLACEHOLDER REPLACE IMAGE WITH TABLE OR TWO TABLES FOR MOST COMMON TOOLS ETC.
+
 ![Awesome bigdata](/assets/posts/2014-10-14-insights-with-lean-analytics/awesome-bigdata.png)
 
 ## Defining a lean process
