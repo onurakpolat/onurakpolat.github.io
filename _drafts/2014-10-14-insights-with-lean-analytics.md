@@ -9,8 +9,12 @@ PLACEHOLDER TITLE IDEAS:
 GET STARTED WITH LEAN INSIGHTS
 LEAN INSIGHTS OVERVIEW
 THE ULTIMATE APPROACH TO LEAN INSIGHTS
+LEAN DATA PIPELINE AND HYPOTHESIS DRIVEN ANALYTICS
 
 PLACEHOLDER IMPLEMENT FAILS!
+PLACEHOLDER WHOLE DATA FUNNEL STARTING FROM QUESTION IN UNTIL VIZ + ACTION
+START WITH QUESTION END WITH ACTION (BETWEEN DATA RAW PROCESS PIPELINE MODEL VIZ)
+Question - Hypothesis - Tracking (RAW) - Analytica Data (Processed) - Model Selection - Model (Computation ML) - Visualization (Tables/Figure) - Action (Recommendation)
 
 In this post i'll share my expierences of the last two years on building an insights team in a startup and how we did the transition from data analysts to data scientists to generate actionable insights that matter. The areas i'll touch are [setting the goals](#setting-the-goals), [building a team and structures](#building-a-team-and-structures), [building a technical infrastructure](#building-a-technical-infrastructure), [defining a lean process](#defining-a-lean-process), [choosing the right metrics](#choosing-the-right-metrics) and [making predictions](#making-predictions).
 
@@ -50,6 +54,9 @@ To get the most out of our data, we decided that it's key to cover many differen
 
 ##### Understanding the technology
 
+PLACEHOLDER data pipeline (Trackers - RAW data - processed data - analysis - report - viz) FUNNEL
+Garbage in garbage out
+
 I realized the opinions about the technical perspective differ a lot. Personally, i believe that despite the fact that the goals are identifying the real problems, validating hypothesis etc. there needs to a solid foundation of technical understanding. If you have engineering ressources that can build the data-pipeline for you, you shouldn't deal with Hadoop or Kafka nodes. If you don't have engineering ressources but money, you're better of integrating a third-party SDK which does all the technical work and lets you focus on the insight generation rather than maintaining clusters. In any case however, you need to be able to have an overview of the data sources available, fetch data from API's or pull it with SQL from another source. A big chunk of the work will be getting and cleaning the data. Sometimes it might be necesarry to transform it, so technicall skills are crucial when building a team.
 
 ##### Telling a story
@@ -77,6 +84,7 @@ PLACEHOLDER VENN DIAGRAM WITH ALL 4 SKILLS
 
 PLACEHOLDER RENAME BUILD TRACKING
 PLACEHOLDER DEFINE SAMPLE EVENTS
+Build a "transparent box" especially when you process data
 
 In general there are two ways of building a tracking infrastructure
 
@@ -97,9 +105,32 @@ PLACEHOLDER REPLACE IMAGE WITH TABLE OR TWO TABLES FOR MOST COMMON TOOLS ETC.
 
 ## Defining a lean process
 
+Choosing the right metrics
+
+## Analyzing data
+
+BE Critical - every data can be noisy or even wrong
+
+Write code for your anaysis don't use guis for more reproducibility
+
+Automate as much as possible
+
+Don't do things by hand
+
+It initially takes longer but prevents hassle in the end
+
+Use version control (Git)
 
 
-## Choosing the right metrics
+
+## DO: Keep track of your software environment
+
+* Computer architecture
+* Operating system
+* Software toolchain
+* Support software (packages etc.)
+* External dependencies
+* Version numbers
 
 ## Making predictions
 
