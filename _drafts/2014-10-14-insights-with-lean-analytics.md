@@ -103,7 +103,13 @@ PLACEHOLDER REPLACE IMAGE WITH TABLE OR TWO TABLES FOR MOST COMMON TOOLS ETC.
 
 ## Making predictions
 
-## Where to go from here?
+## Take action
+
+If action needs to be taken make suggestions
+
+If question needs to be adressed, try to make them
+
+## Conclusion
 
 
 
