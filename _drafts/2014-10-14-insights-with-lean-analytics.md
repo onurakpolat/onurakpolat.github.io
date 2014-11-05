@@ -16,6 +16,8 @@ PLACEHOLDER WHOLE DATA FUNNEL STARTING FROM QUESTION IN UNTIL VIZ + ACTION
 START WITH QUESTION END WITH ACTION (BETWEEN DATA RAW PROCESS PIPELINE MODEL VIZ)
 Question - Hypothesis - Tracking (RAW) - Analytica Data (Processed) - Model Selection - Model (Computation ML) - Visualization (Tables/Figure) - Action (Recommendation)
 
+Data only exists within a framework of a vision you are building to
+
 In this post i'll share my expierences of the last two years on building an insights team in a startup and how we did the transition from data analysts to data scientists to generate actionable insights that matter. The areas i'll touch are [setting the goals](#setting-the-goals), [building a team and structures](#building-a-team-and-structures), [building a technical infrastructure](#building-a-technical-infrastructure), [defining a lean process](#defining-a-lean-process), [choosing the right metrics](#choosing-the-right-metrics) and [making predictions](#making-predictions).
 
 While reading i'd appreciated your feedback and feel free to challenge every single word i'm writing.
