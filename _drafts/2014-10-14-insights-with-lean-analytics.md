@@ -24,6 +24,8 @@ FYI - http://www.datasciencecentral.com/profiles/blogs/best-solution-to-a-proble
 
 question -> input data -> features -> algorithm -> parameters -> evaluation
 
+Covariate creation from Raw data to tidy data set (keep only relevant information)
+
 Data only exists within a framework of a vision you are building to
 
 In this post i'll share my expierences of the last two years on building an insights team in a startup and how we did the transition from data analysts to data scientists to generate actionable insights that matter. The areas i'll touch are [setting the goals](#setting-the-goals), [building a team and structures](#building-a-team-and-structures), [building a technical infrastructure](#building-a-technical-infrastructure), [defining a lean process](#defining-a-lean-process), [choosing the right metrics](#choosing-the-right-metrics) and [making predictions](#making-predictions).
