@@ -10,7 +10,7 @@
   ],
   "cookies":  [],
   "postData": {
-    "key1": "value1",
-    "key2": "value2"
+    "mimeType": "application/json",
+    "text": "{\"key\": \"value\",\"key2\": \"value2\"}"
   }
 }
