@@ -1,6 +1,6 @@
 {
   "method": "GET",
-  "url": "https://api.tapglue.com/0.2/users/1/followed",
+  "url": "https://api.tapglue.com/0.2/users/1/follows",
   "httpVersion": "HTTP/1.1",
   "queryString": [],
   "headers": [
