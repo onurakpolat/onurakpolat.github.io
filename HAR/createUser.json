@@ -11,6 +11,6 @@
   "cookies":  [],
   "postData": {
     "mimeType": "application/json",
-    "text": "{\"key\": \"value\",\"key2\": \"value2\"}"
+    "text": "{\"user_name\":\"Demo User\", \"first_name\":\"John\", \"last_name\": \"Smith\", \"email\":\"js@m.o\", \"password\": \"password\"}"
   }
 }
