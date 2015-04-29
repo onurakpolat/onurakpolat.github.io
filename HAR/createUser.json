@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "url": "https://api.tapglue.com/0.2/users",
+  "httpVersion": "HTTP/1.1",
+  "queryString": [],
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" },
+    { "name": "Authorization", "value": "Basic MToxOsZ8K+fCdnDrsYAAv5ASYa0q" }
+  ],
+  "cookies":  [],
+  "postData": {
+    "key1": "value1",
+    "key2": "value2"
+  }
+}
