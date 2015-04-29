@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "url": "https://api.tapglue.com/0.2/users/1/connections/social",
+  "httpVersion": "HTTP/1.1",
+  "queryString": [],
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" },
+    { "name": "Authorization", "value": "Basic MToxOsZ8K+fCdnDrsYAAv5ASYa0q:" }
+  ],
+  "cookies":  [],
+  "postData": {
+    "mimeType": "application/json",
+    "text": "{\"platform\":\"facebook\",\"user_id\":\"fb-id-1\",\"connection_ids\":[\"fb-id-2\",\"fb-id-4\"]}"
+  }
+}
