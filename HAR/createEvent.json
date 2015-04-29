@@ -1,6 +1,6 @@
 {
   "method": "POST",
-  "url": "https://api.tapglue.com/0.2/users",
+  "url": "https://api.tapglue.com/0.2/users/1/events",
   "httpVersion": "HTTP/1.1",
   "queryString": [],
   "headers": [
