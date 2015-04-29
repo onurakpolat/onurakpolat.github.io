@@ -1,0 +1,12 @@
+{
+  "method": "GET",
+  "url": "https://api.tapglue.com/0.2/users/1/followed",
+  "httpVersion": "HTTP/1.1",
+  "queryString": [],
+  "headers": [
+    { "name": "Accept", "value": "application/json" },
+    { "name": "Content-Type", "value": "application/json" },
+    { "name": "Authorization", "value": "Basic MToxOsZ8K+fCdnDrsYAAv5ASYa0q:" }
+  ],
+  "cookies":  []
+}
