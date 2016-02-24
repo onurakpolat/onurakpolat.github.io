@@ -18,6 +18,8 @@ PLACEHOLDER WHOLE DATA FUNNEL STARTING FROM QUESTION IN UNTIL VIZ + ACTION
 START WITH QUESTION END WITH ACTION (BETWEEN DATA RAW PROCESS PIPELINE MODEL VIZ)
 Question - Hypothesis - Tracking (RAW) - Analytica Data (Processed) - Model Selection - Model (Computation ML) - Visualization (Tables/Figure) - Action (Recommendation)
 
+![DatascienceLand](http://www.dataiku.com/static/img/blog/technoslavia/technoslavia-map-dataiku-800.png)
+
 http://i2.wp.com/sciencereview.berkeley.edu/wp-content/uploads/2014/04/spring_2014_azam_01.jpg
 
 http://i0.wp.com/sciencereview.berkeley.edu/wp-content/uploads/2014/04/spring_2014_azam_05.jpg
